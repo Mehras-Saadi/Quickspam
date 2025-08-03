@@ -22,7 +22,7 @@ Below is a screenshot of QuickSpam running in a terminal environment:
 - Multiple spam modes:
   - Custom text repetition
   - Sequential number spamming
-  - Random 3-digit number generator
+  - Random number generator
 - Customizable delays:
   - Initial delay before spamming starts
   - Delay between each message
@@ -50,7 +50,6 @@ Below is a screenshot of QuickSpam running in a terminal environment:
 3. When prompted, quickly switch to your messaging app (WhatsApp, Telegram, Discord, etc.).
 4. The spamming process will begin automatically.
 
-> ⚠️ Warning: Always use this tool ethically. Do not use it to annoy or harm others.
 
 ---
 
