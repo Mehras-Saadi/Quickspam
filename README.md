@@ -14,8 +14,7 @@ This tool can be useful for:
 
 Below is a screenshot of QuickSpam running in a terminal environment:
 
-![QuickSpam Demo](quickspam_demo.png)
-
+![QuickSpam Demo](quickspam_preview.jpg)
 --
 
 ## ⚙️ Features
