@@ -6,7 +6,7 @@ It simulates human keyboard input to automatically send repeated messages in any
 This tool can be useful for:
 - Automated testing of chat applications
 - Message flood simulations
-- Fun experiments (⚠️ use responsibly)
+- Fun experiments (:
 
 ---
 
