@@ -10,6 +10,14 @@ This tool can be useful for:
 
 ---
 
+## 🖼️ Preview
+
+Below is a screenshot of QuickSpam running in a terminal environment:
+
+![QuickSpam Demo](quickspam_demo.png)
+
+--
+
 ## ⚙️ Features
 
 - Multiple spam modes:
