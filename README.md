@@ -63,9 +63,7 @@ Below is a screenshot of QuickSpam running in a terminal environment:
 
 ---
 
-## 👤 Author
-
-Made with ❤️ by **Mehras Saadi**  
+## Made with ❤️ by **Mehras Saadi**  
 GitHub: [Mehras-Saadi](https://github.com/Mehras-Saadi)
 
 ---
